@@ -65,6 +65,8 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 # 🛠️ Patents
 - Changdu Du, **Xinmiao Huang**, Xiangyu Sun. A universal cooling pipe robot driven by magnetorheological fluid, ZL 202220595275.4
 - Chao Lei, Junru Huo, **Xinmiao Huang**, Yuanhao Sun, et al. A Inspection Robot with the Hybrid Transmission of Track Friction and Sprocket Chain, ZL 202120135258.8
+
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
