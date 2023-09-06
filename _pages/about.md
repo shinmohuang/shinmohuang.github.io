@@ -47,7 +47,7 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 - *2020.06 - 2021.0* Inspection Robot with the Hybrid Transmission of Track Friction and Sprocket Chain
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2021* The 16th National University Students Intelligent Car Competition - National First Prize
 - *2020-2021* Second Prize Scholarship, China University of Mining and Technology
 - *2018-2019, 2019-2020* Third Prize Scholarship, China University of Mining and Technology
@@ -61,6 +61,10 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
   - **Dissertation Project:** Research on the construction of 3D mapping of coal mine roadways for drilling robots
   - **Grade:** Distinction
 
+
+# 🛠️ Patents
+- Changdu Du, **Xinmiao Huang**, Xiangyu Sun. A universal cooling pipe robot driven by magnetorheological fluid, ZL 202220595275.4
+- Chao Lei, Junru Huo, **Xinmiao Huang**, Yuanhao Sun, et al. A Inspection Robot with the Hybrid Transmission of Track Friction and Sprocket Chain, ZL 202120135258.8
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
