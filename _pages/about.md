@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Adam (Xinmiao) Huang"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -15,11 +15,15 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Adam (Xinmiao) Huang is a robotics engineer and researcher pursuing a MSc in Robotics at the University of Bristol. He has a strong academic background with a Bachelor of Engineering in Robot Engineering from China University of Mining and Technology, where he graduated with distinction.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Adam has experience leading teams and managing complex robotics projects. As team leader for the 16th National University Students Intelligent Car Competition, he coordinated a team of 5 to develop an autonomous vehicle using SLAM, navigation, and other algorithms. The team won first prize nationally for their innovative work. His bachelor's dissertation involved developing a Lidar-SLAM system for 3D mapping of underground coal mine tunnels. He has two published patents and one published paper related to robotic inspection, cooling systems, and 3D mapping.<span class='anchor' id='about-me'></span>
+<a href='https://scholar.google.com/citations?user=mhRHe4oAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+Currently, Adam is working on his MSc dissertation in safety validation of deep neural networks using symbolic analysis techniques like SMT solvers. He aims to develop methods to formally verify and guarantee the safety of DNNs. He has taken courses in areas like machine vision, artificial intelligence, and human-robot interaction.
+
+Adam has strong technical skills in C/C++, Python, ROS, MATLAB, TensorFlow, CAD, and other robotics/AI frameworks. His research interests include interpretive AI, V&V of machine learning systems, Lidar-SLAM, and autonomous vehicles. He is fluent in English and Chinese.
 
 
 # 📣 News
