@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -15,11 +14,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='about-me'></span>
 
 Adam (Xinmiao) Huang is a robotics engineer and researcher pursuing a MSc in Robotics at the University of Bristol. He has a strong academic background with a Bachelor of Engineering in Robot Engineering from China University of Mining and Technology, where he graduated with distinction.
 
-Adam has experience leading teams and managing complex robotics projects. As team leader for the 16th National University Students Intelligent Car Competition, he coordinated a team of 5 to develop an autonomous vehicle using SLAM, navigation, and other algorithms. The team won first prize nationally for their innovative work. His bachelor's dissertation involved developing a Lidar-SLAM system for 3D mapping of underground coal mine tunnels. He has two published patents and one published paper related to robotic inspection, cooling systems, and 3D mapping.<span class='anchor' id='about-me'></span>
+Adam has experience leading teams and managing complex robotics projects. As team leader for the 16th National University Students Intelligent Car Competition, he coordinated a team of 5 to develop an autonomous vehicle using SLAM, navigation, and other algorithms. The team won first prize nationally for their innovative work. His bachelor's dissertation involved developing a Lidar-SLAM system for 3D mapping of underground coal mine tunnels. He has two published patents and one published paper related to robotic inspection, cooling systems, and 3D mapping.
 <a href='https://scholar.google.com/citations?user=mhRHe4oAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 
 Currently, Adam is working on his MSc dissertation in safety validation of deep neural networks using symbolic analysis techniques like SMT solvers. He aims to develop methods to formally verify and guarantee the safety of DNNs. He has taken courses in areas like machine vision, artificial intelligence, and human-robot interaction.
 
@@ -66,10 +67,3 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 - Changdu Du, **Xinmiao Huang**, Xiangyu Sun. A universal cooling pipe robot driven by magnetorheological fluid, ZL 202220595275.4
 - Chao Lei, Junru Huo, **Xinmiao Huang**, Yuanhao Sun, et al. A Inspection Robot with the Hybrid Transmission of Track Friction and Sprocket Chain, ZL 202120135258.8
 
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
