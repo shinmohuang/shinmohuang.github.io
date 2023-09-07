@@ -35,7 +35,7 @@ His research interests include interpretive AI, V&V of machine learning systems,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mine Automation. 2022(12)</div><img src='images\2022100041-10.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3D map construction of coal mine roadway mobile robot based on integrated factor graph optimization](http://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13272/j.issn.1671-251x.2022100041)
+[3D map construction of coal mine roadway mobile robot based on integrated factor graph optimization](http://www.gkzdh.cn/en/article/doi/10.13272/j.issn.1671-251x.2022100041)
 
 ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 
