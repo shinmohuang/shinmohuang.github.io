@@ -39,7 +39,8 @@ Adam has strong technical skills in C/C++, Python, ROS, MATLAB, TensorFlow, CAD,
 [3D map construction of coal mine roadway mobile robot based on integrated factor graph optimization](http://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13272/j.issn.1671-251x.2022100041)
 
 ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
-
+</div>
+</div>
 # 🤖 Research Experience
 - *2023.05 - 2023.09* Safety Validation of Deep Neural Networks by Symbolic Analysis
 - *2021-12 - 2022.06* Research on the construction of 3D mapping of coal mine roadways for drilling robots
