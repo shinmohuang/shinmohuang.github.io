@@ -41,6 +41,7 @@ Adam has strong technical skills in C/C++, Python, ROS, MATLAB, TensorFlow, CAD,
 ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 </div>
 </div>
+
 # 🤖 Research Experience
 - *2023.05 - 2023.09* Safety Validation of Deep Neural Networks by Symbolic Analysis
 - *2021-12 - 2022.06* Research on the construction of 3D mapping of coal mine roadways for drilling robots
