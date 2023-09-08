@@ -22,6 +22,14 @@ main:
   - title: "Patents"
     url: "/#-patents"
 
+  - title: "Languages"
+    url: "/#-languages"
+
+  - title: "Technical Skills"
+    url: "/#-technical-skills"
+
+    
+
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 

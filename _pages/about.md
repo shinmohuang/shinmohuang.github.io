@@ -23,12 +23,12 @@ Adam has experience leading teams and managing complex robotics projects. As tea
 
 Currently, Adam is working on his MSc dissertation in safety validation of deep neural networks using formal analysis techniques like SMT solvers. He aims to develop methods to formally verify and guarantee the safety of DNNs. 
 
-Adam has strong technical skills in C/C++, Python, ROS, MATLAB, TensorFlow, CAD, and other robotics/AI frameworks. 
+Adam has strong technical skills in C/C++, Python, ROS, MATLAB, TensorFlow, CAD, and other robotics/AI frameworks.
 
-His research interests include interpretive AI, V&V of machine learning systems, Lidar-SLAM, and autonomous vehicles.
+His research interests include AI safety, V&V of machine learning systems, Lidar-SLAM, and autonomous vehicles.
 
 # 📣 News
-- *2023.09*: &nbsp;🎉🎉 Just finished my Master's dissertation: Safety Validation of Deep Neural Networks by Formal Analysis. Hope it will get a good mark! Further research will be conduct soon and hopefully there will be a paper come out!
+- *2023.09*: &nbsp;🎉🎉 Just finished my Master's dissertation: Safety Validation of Deep Neural Networks by Formal Analysis. Hope it will get a good mark! Further research will be conduct soon and hopefully there will be a paper released!
 
 # 📝 Publications 
 
@@ -48,7 +48,7 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 
 # 🤖 Research Experience
 - *2023.05 - 2023.09* Safety Validation of Deep Neural Networks by Formal Analysis
-- *2021-12 - 2022.06* Research on the construction of 3D mapping of coal mine roadways for drilling robots
+- *2021.12 - 2022.06* Research on the construction of 3D mapping of coal mine roadways for drilling robots
 - *2021.04 - 2021.08* The 16th National University Students Intelligent Car Competition
 - *2020.06 - 2022.06* A Universal Cooling Pipe Robot Driven by Magnetorheological Fluid
 - *2020.06 - 2021.06* Inspection Robot with the Hybrid Transmission of Track Friction and Sprocket Chain
@@ -70,3 +70,15 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 # 🛠️ Patents
 - Changdu Du, **Xinmiao Huang**, Xiangyu Sun. A universal cooling pipe robot driven by magnetorheological fluid, ZL 202220595275.4
 - Chao Lei, Junru Huo, **Xinmiao Huang**, Yuanhao Sun, et al. A Inspection Robot with the Hybrid Transmission of Track Friction and Sprocket Chain, ZL 202120135258.8
+
+# 
+
+# 🗣️ Languages
+- Chinese Mother Tongue
+- English C1
+- French Beginner
+
+# 💻 Technical Skills
+- Programming: C, C++, Python, MATLAB, LATEX
+- Operating Systems: Windows, Linux(Ubuntu)
+- Software: ROS, CAD, Solidworks, Creo, Gazebo, TensorFlow, Pytorch
