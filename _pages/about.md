@@ -51,9 +51,10 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 - *2021.12 - 2022.06* Research on the construction of 3D mapping of coal mine roadways for drilling robots
 - *2021.04 - 2021.08* The 16th National University Students Intelligent Car Competition
 - *2020.06 - 2022.06* A Universal Cooling Pipe Robot Driven by Magnetorheological Fluid
-- *2020.06 - 2021.06* Inspection Robot with the Hybrid Transmission of Track Friction and Sprocket Chain
+- *2020.06 - 2021.06* Inspection Robot with the Hybrid Transmission of T rack Friction and Sprocket Chain
 
 # 🏅 Honors and Awards
+- *2022* Outstanding Graduates, China University of Mining and Technology
 - *2021* The 16th National University Students Intelligent Car Competition - National First Prize
 - *2020-2021* Second Prize Scholarship, China University of Mining and Technology
 - *2018-2019, 2019-2020* Third Prize Scholarship, China University of Mining and Technology
@@ -62,7 +63,7 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 - ***2022.09 - 2023.09*, MSc in Robotics at University of Bristol**
   - **Provisional Grade:** 71.5
   - **Dissertation Project:** Safety Validation of Deep Neural Networks by Symbolic Analysis
-- ***2018.09 - 2022.06*, B.Eng in Robot Engineering at CUMT**
+- ***2018.09 - 2022.06*, B.Eng in Robot Engineering at CUMT (Honored Graduates)**
   - **GPA**: 85.77%
   - **Dissertation Project:** Research on the construction of 3D mapping of coal mine roadways for drilling robots
   - **Grade:** Distinction
