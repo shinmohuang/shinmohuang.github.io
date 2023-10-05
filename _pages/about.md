@@ -80,4 +80,4 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 # 💻 Technical Skills
 - Programming: C, C++, Python, MATLAB, LATEX
 - Operating Systems: Windows, Linux(Ubuntu)
-- Software: ROS, CAD, Solidworks, Creo, Gazebo, TensorFlow, Pytorch
+- Software: ROS, CAD, Solidworks, Creo, Gazebo, TensorFlow, Pytorch, Git
