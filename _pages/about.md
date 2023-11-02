@@ -61,7 +61,7 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 
 # 📖 Educations
 - ***2022.09 - 2023.09*, MSc in Robotics at University of Bristol**
-  - **Provisional Grade:** 71.5
+  - **Grade:** Distinction
   - **Dissertation Project:** Safety Validation of Deep Neural Networks by Symbolic Analysis
 - ***2018.09 - 2022.06*, B.Eng in Robot Engineering at CUMT (Honored Graduates)**
   - **GPA**: 85.77%
