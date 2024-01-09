@@ -19,10 +19,6 @@ redirect_from:
 Adam (Xinmiao) Huang is a robotics engineer and researcher pursuing a MSc in Robotics at the University of Bristol. He has a strong academic background with a Bachelor of Engineering in Robot Engineering from China University of Mining and Technology, where he graduated with distinction.
 
 Adam has experience leading teams and managing complex robotics projects. As team leader for the 16th National University Students Intelligent Car Competition, he coordinated a team of 5 to develop an autonomous vehicle using SLAM, navigation, and other algorithms. The team won first prize nationally for their innovative work. His bachelor's dissertation involved developing a Lidar-SLAM system for 3D mapping of underground coal mine tunnels. He has two published patents and one published paper related to robotic inspection, cooling systems, and 3D mapping.
-<a href='https://scholar.google.com/citations?user=mhRHe4oAAAAJ&hl'>
-<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/shinmohuang/shinmohuang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
-
 
 Currently, Adam is working on his MSc dissertation in safety validation of deep neural networks using formal analysis techniques like SMT solvers. He aims to develop methods to formally verify and guarantee the safety of DNNs.
 
@@ -39,7 +35,9 @@ His research interests include AI safety, V&V of machine learning systems, Lidar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mine Automation. 2022(12)</div><img src='images\2022100041-10.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3D map construction of coal mine roadway mobile robot based on integrated factor graph optimization](http://www.gkzdh.cn/en/article/doi/10.13272/j.issn.1671-251x.2022100041)
+[3D map construction of coal mine roadway mobile robot based on integrated factor graph optimization](http://www.gkzdh.cn/en/article/doi/10.13272/j.issn.1671-251x.2022100041)<a href='https://scholar.google.com/citations?user=mhRHe4oAAAAJ&hl'>
+<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/shinmohuang/shinmohuang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
 
 ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 
