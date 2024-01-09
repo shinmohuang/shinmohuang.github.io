@@ -28,6 +28,7 @@ Adam has strong technical skills in C/C++, Python, ROS, MATLAB, TensorFlow, CAD,
 His research interests include AI safety, V&V of machine learning systems, Lidar-SLAM, and autonomous vehicles.
 
 # 📣 News
+- *2023.12*: &nbsp;🎉🎉 Graduated from University of Bristol MSc Robotics with Distinction!
 - *2023.09*: &nbsp;🎉🎉 Just finished my Master's dissertation: Safety Validation of Deep Neural Networks by Formal Analysis. Hope it will get a good mark! Further research will be conduct soon and hopefully there will be a paper released!
 
 # 📝 Publications 
