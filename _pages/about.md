@@ -19,7 +19,10 @@ redirect_from:
 Adam (Xinmiao) Huang is a robotics engineer and researcher pursuing a MSc in Robotics at the University of Bristol. He has a strong academic background with a Bachelor of Engineering in Robot Engineering from China University of Mining and Technology, where he graduated with distinction.
 
 Adam has experience leading teams and managing complex robotics projects. As team leader for the 16th National University Students Intelligent Car Competition, he coordinated a team of 5 to develop an autonomous vehicle using SLAM, navigation, and other algorithms. The team won first prize nationally for their innovative work. His bachelor's dissertation involved developing a Lidar-SLAM system for 3D mapping of underground coal mine tunnels. He has two published patents and one published paper related to robotic inspection, cooling systems, and 3D mapping.
-<a href='https://scholar.google.com/citations?user=mhRHe4oAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=mhRHe4oAAAAJ&hl'>
+<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/shinmohuang/shinmohuang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
+
 
 Currently, Adam is working on his MSc dissertation in safety validation of deep neural networks using formal analysis techniques like SMT solvers. He aims to develop methods to formally verify and guarantee the safety of DNNs.
 
