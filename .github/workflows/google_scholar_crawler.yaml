@@ -28,7 +28,8 @@ jobs:
         python3 main.py
         cd ./results
         git init
-        git config --local user.name "${GITHUB_ACTOR}"
+        git config --local user.name "shinmohuang"
+        git config --local user.email "shinmohuang@163.com"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
         git commit -m "Updated Citation Data"
