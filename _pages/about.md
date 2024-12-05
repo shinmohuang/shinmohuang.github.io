@@ -16,17 +16,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Adam (Xinmiao) Huang is a robotics engineer and researcher pursuing a MSc in Robotics at the University of Bristol. He has a strong academic background with a Bachelor of Engineering in Robot Engineering from China University of Mining and Technology, where he graduated with distinction.
+Adam (Xinmiao) Huang is a first-year PhD student in the Department of Computer Science at the University of Liverpool, under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong. His research interests include Neural-Symbolic AI, Spatial Reasoning for LLM.
 
-Adam has experience leading teams and managing complex robotics projects. As team leader for the 16th National University Students Intelligent Car Competition, he coordinated a team of 5 to develop an autonomous vehicle using SLAM, navigation, and other algorithms. The team won first prize nationally for their innovative work. His bachelor's dissertation involved developing a Lidar-SLAM system for 3D mapping of underground coal mine tunnels. He has two published patents and one published paper related to robotic inspection, cooling systems, and 3D mapping.
+<!-- Adam has experience leading teams and managing complex robotics projects. As team leader for the 16th National University Students Intelligent Car Competition, he coordinated a team of 5 to develop an autonomous vehicle using SLAM, navigation, and other algorithms. The team won first prize nationally for their innovative work. His bachelor's dissertation involved developing a Lidar-SLAM system for 3D mapping of underground coal mine tunnels. He has two published patents and one published paper related to robotic inspection, cooling systems, and 3D mapping.
 
-Currently, Adam is working on his MSc dissertation in safety validation of deep neural networks using formal analysis techniques like SMT solvers. He aims to develop methods to formally verify and guarantee the safety of DNNs.
+Currently, Adam is working on his MSc dissertation in safety validation of deep neural networks using formal analysis techniques like SMT solvers. He aims to develop methods to formally verify and guarantee the safety of DNNs. -->
 
-Adam has strong technical skills in C/C++, Python, ROS, MATLAB, TensorFlow, CAD, and other robotics/AI frameworks.
+<!-- Adam has strong technical skills in C/C++, Python, ROS, MATLAB, TensorFlow, CAD, and other robotics/AI frameworks. -->
 
 His research interests include AI safety, V&V of machine learning systems, Lidar-SLAM, and autonomous vehicles.
 
 # 📣 News
+- *2024.12*: &nbsp;🎉🎉 Gave a tutorial session about Neural Symbolic AI at TACPS & Trust-AI Reading Group
+- *2024.10*: &nbsp;🎉🎉 Started my PhD journey at University of Liverpool under the supervision of Professor Xiaowei Huang and Dr. Yi Dong.
 - *2023.12*: &nbsp;🎉🎉 Graduated from University of Bristol MSc Robotics with Distinction!
 - *2023.09*: &nbsp;🎉🎉 Just finished my Master's dissertation: Safety Validation of Deep Neural Networks by Formal Analysis. Hope it will get a good mark! Further research will be conduct soon and hopefully there will be a paper released!
 
@@ -79,7 +81,11 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 - English C1
 - French Beginner
 
-# 💻 Technical Skills
+<!-- # 💻 Technical Skills
 - Programming: C, C++, Python, MATLAB, LATEX
 - Operating Systems: Windows, Linux(Ubuntu)
-- Software: ROS, CAD, Solidworks, Creo, Gazebo, TensorFlow, Pytorch, Git
+- Software: ROS, CAD, Solidworks, Creo, Gazebo, TensorFlow, Pytorch, Git -->
+
+# 📚 Reading Group
+- 2024.12 Neural-Symbolic AI: Bridging Learning and Reasoning @ TACPS & Trust-AI Reading Group
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CtSt_M666H4?si=qe5z0V5J5p82O02f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -25,13 +25,11 @@ main:
   - title: "Languages"
     url: "/#-languages"
 
-  - title: "Technical Skills"
-    url: "/#-technical-skills"
+  # - title: "Technical Skills"
+  #   url: "/#-technical-skills"
 
-    
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
+  - title: "Reading Group"
+    url: "/#-reading-group"
 
   # - title: "Internships"
   #   url: "/#-internships"
