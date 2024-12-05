@@ -24,7 +24,7 @@ Currently, Adam is working on his MSc dissertation in safety validation of deep 
 
 <!-- Adam has strong technical skills in C/C++, Python, ROS, MATLAB, TensorFlow, CAD, and other robotics/AI frameworks. -->
 
-His research interests include AI safety, V&V of machine learning systems, Lidar-SLAM, and autonomous vehicles.
+<!-- His research interests include AI safety, V&V of machine learning systems, Lidar-SLAM, and autonomous vehicles. -->
 
 # 📣 News
 - *2024.12*: &nbsp;🎉🎉 Gave a tutorial session about Neural Symbolic AI at TACPS & Trust-AI Reading Group
