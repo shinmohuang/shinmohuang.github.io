@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Adam (Xinmiao) Huang is a first-year PhD student in the Department of Computer Science at the University of Liverpool, under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong. His research interests include Neural-Symbolic AI, Spatial Reasoning for LLM.
+Adam (Xinmiao) Huang is a second-year PhD student in the School of Computer Science and Informatics at the University of Liverpool, under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong. His research interests include Neural-Symbolic AI, Spatial Reasoning for LLM.
 
 <!-- Adam has experience leading teams and managing complex robotics projects. As team leader for the 16th National University Students Intelligent Car Competition, he coordinated a team of 5 to develop an autonomous vehicle using SLAM, navigation, and other algorithms. The team won first prize nationally for their innovative work. His bachelor's dissertation involved developing a Lidar-SLAM system for 3D mapping of underground coal mine tunnels. He has two published patents and one published paper related to robotic inspection, cooling systems, and 3D mapping.
 
@@ -27,12 +27,32 @@ Currently, Adam is working on his MSc dissertation in safety validation of deep 
 <!-- His research interests include AI safety, V&V of machine learning systems, Lidar-SLAM, and autonomous vehicles. -->
 
 # 📣 News
+- *2026.01*: &nbsp;🎉🎉 Paper accepted at ICLR 2026!
 - *2024.12*: &nbsp;🎉🎉 Gave a tutorial session about Neural Symbolic AI at TACPS & Trust-AI Reading Group
 - *2024.10*: &nbsp;🎉🎉 Started my PhD journey at University of Liverpool under the supervision of Professor Xiaowei Huang and Dr. Yi Dong.
 - *2023.12*: &nbsp;🎉🎉 Graduated from University of Bristol MSc Robotics with Distinction!
 - *2023.09*: &nbsp;🎉🎉 Just finished my Master's dissertation: Safety Validation of Deep Neural Networks by Formal Analysis. Hope it will get a good mark! Further research will be conduct soon and hopefully there will be a paper released!
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='images/spatial-dise.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+[Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models](https://openreview.net/forum?id=bMINsPQpME)<a href='https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:9yKSN-GCB0IC'>
+<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/shinmohuang/shinmohuang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
+<a href='https://shinmohuang.github.io/spatialdise_page/'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
+<a href='https://huggingface.co/collections/TACPS-liv/spatial-dise'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
+
+**Xinmiao Huang**, Qisong He, Zhenglin Huang, Boxuan Wang, Zhuoyun Li, Guangliang Cheng, Yi Dong, Xiaowei Huang.
+
+- Proposed a unified benchmark, Spatial-DISE, for evaluating spatial reasoning in Vision-Language Models (VLMs).
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mine Automation. 2022(12)</div><img src='images\2022100041-10.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,21 +85,19 @@ ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 
 # 📖 Educations
 - ***2022.09 - 2023.09*, MSc in Robotics at University of Bristol**
-  - **Grade:** Distinction
+  <!-- - **Grade:** Distinction -->
   - **Dissertation Project:** Safety Validation of Deep Neural Networks by Symbolic Analysis
 - ***2018.09 - 2022.06*, B.Eng in Robot Engineering at CUMT (Honored Graduates)**
-  - **GPA**: 85.77%
+  <!-- - **GPA**: 85.77% -->
   - **Dissertation Project:** Research on the construction of 3D mapping of coal mine roadways for drilling robots
-  - **Grade:** Distinction
+  <!-- - **Grade:** Distinction -->
 
-# 🛠️ Patents
-- Changdu Du, **Xinmiao Huang**, Xiangyu Sun. A universal cooling pipe robot driven by magnetorheological fluid, ZL 202220595275.4
-- Chao Lei, Junru Huo, **Xinmiao Huang**, Yuanhao Sun, et al. A Inspection Robot with the Hybrid Transmission of Track Friction and Sprocket Chain, ZL 202120135258.8
 
 # 🗣️ Languages
-- Chinese Mother Tongue
+- Chinese Native
 - English C1
-- French Beginner
+- Irish Learner
+<!-- - French Beginner -->
 
 <!-- # 💻 Technical Skills
 - Programming: C, C++, Python, MATLAB, LATEX

@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Adam Huang"
+title                    : "Xinmiao Huang"
 description              : "CS PhD Student at University of Liverpool"
 repository               : "shinmohuang.github.io"
 google_scholar_stats_use_cdn : true
@@ -20,8 +20,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Adam (Xinmiao) Huang"
-  avatar           : "images/2021.5.jpg"
+  name             : "Xinmiao Huang"
+  avatar           : "images/bighead.png"
   bio              : "University of Liverpool"
   location         : "Liverpool, UK"
   employer         :

@@ -19,11 +19,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Patents"
-    url: "/#-patents"
-
-  - title: "Languages"
-    url: "/#-languages"
+  # - title: "Languages"
+  #   url: "/#-languages"
 
   # - title: "Technical Skills"
   #   url: "/#-technical-skills"
