@@ -41,7 +41,7 @@ Currently, Adam is working on his MSc dissertation in safety validation of deep 
 <div class='paper-box-text' markdown="1">
 
 [Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage](https://arxiv.org/pdf/2511.06168v2)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:u5HHmVD_uO8C'><span class='show_paper_citations' data='mhRHe4oAAAAJ:u5HHmVD_uO8C'></span></a>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:u-x6o8ySG0sC'><span class='show_paper_citations' data='mhRHe4oAAAAJ:u-x6o8ySG0sC'></span></a>
 <a href='https://arxiv.org/pdf/2511.06168v2'><img src='https://img.shields.io/badge/arXiv-2511.06168v2-b31b1b.svg'></a>
 
 Jinwei Hu, **Xinmiao Huang**, Youcheng Sun, Yi Dong, Xiaowei Huang.
@@ -55,7 +55,8 @@ Jinwei Hu, **Xinmiao Huang**, Youcheng Sun, Yi Dong, Xiaowei Huang.
 <div class='paper-box-text' markdown="1">
 
 [Chain-of-Thought as a Lens: Evaluating Structured Reasoning Alignment between Human Preferences and Large Language Models](https://arxiv.org/pdf/2601.01685)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:u-x6o8ySG0sC'><span class='show_paper_citations' data='mhRHe4oAAAAJ:u-x6o8ySG0sC'></span></a>
+<!-- Not yet indexed on Google Scholar -->
+<!-- <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:N_A'><span class='show_paper_citations' data='mhRHe4oAAAAJ:N_A'></span></a> -->
 <a href='https://arxiv.org/pdf/2601.01685'><img src='https://img.shields.io/badge/arXiv-2601.01685-b31b1b.svg'></a>
 
 Boxuan Wang, Zhuoyun Li, **Xinmiao Huang**, Xiaowei Huang, Yi Dong.
@@ -86,6 +87,7 @@ Boxuan Wang, Zhuoyun Li, **Xinmiao Huang**, Xiaowei Huang, Yi Dong.
 <div class='paper-box-text' markdown="1">
 
 [3D map construction of coal mine roadway mobile robot based on integrated factor graph optimization](http://www.gkzdh.cn/en/article/doi/10.13272/j.issn.1671-251x.2022100041)
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:u5HHmVD_uO8C'><span class='show_paper_citations' data='mhRHe4oAAAAJ:u5HHmVD_uO8C'></span></a>
 
 ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 
