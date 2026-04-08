@@ -11,8 +11,13 @@
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+                var publication = data['publications'][paperId]
+                if (!publication) {
+                    element.innerHTML = "<img src='https://img.shields.io/badge/citations-N%2FA-lightgrey?logo=Google%20Scholar&labelColor=f6f6f6&style=flat' alt='Google Scholar citations'>"
+                    return
+                }
+                var numCitations = publication['num_citations']
+                element.innerHTML = "<img src='https://img.shields.io/badge/citations-" + encodeURIComponent(numCitations) + "-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat' alt='Google Scholar citations'>"
             });
         });
     })

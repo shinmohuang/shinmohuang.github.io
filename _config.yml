@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xinmiao Huang"
 description              : "CS PhD Student at University of Liverpool"
-repository               : "shinmohuang.github.io"
+repository               : "shinmohuang/shinmohuang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

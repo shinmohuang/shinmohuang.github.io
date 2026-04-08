@@ -27,13 +27,42 @@ Currently, Adam is working on his MSc dissertation in safety validation of deep 
 <!-- His research interests include AI safety, V&V of machine learning systems, Lidar-SLAM, and autonomous vehicles. -->
 
 # 📣 News
+- *2026.04*: &nbsp;🎉🎉 Two papers accepted at ACL 2026. Congratulations to all co-authors!
 - *2026.01*: &nbsp;🎉🎉 Paper accepted at ICLR 2026!
 - *2024.12*: &nbsp;🎉🎉 Gave a tutorial session about Neural Symbolic AI at TACPS & Trust-AI Reading Group
 - *2024.10*: &nbsp;🎉🎉 Started my PhD journey at University of Liverpool under the supervision of Professor Xiaowei Huang and Dr. Yi Dong.
 - *2023.12*: &nbsp;🎉🎉 Graduated from University of Bristol MSc Robotics with Distinction!
-- *2023.09*: &nbsp;🎉🎉 Just finished my Master's dissertation: Safety Validation of Deep Neural Networks by Formal Analysis. Hope it will get a good mark! Further research will be conduct soon and hopefully there will be a paper released!
+<!-- - *2023.09*: &nbsp;🎉🎉 Just finished my Master's dissertation: Safety Validation of Deep Neural Networks by Formal Analysis. Hope it will get a good mark! Further research will be conduct soon and hopefully there will be a paper released! -->
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Oral</div><img src='images/lying.png' alt="Lying with Truths cover" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage](https://arxiv.org/pdf/2511.06168v2)
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:u5HHmVD_uO8C'><span class='show_paper_citations' data='mhRHe4oAAAAJ:u5HHmVD_uO8C'></span></a>
+<a href='https://arxiv.org/pdf/2511.06168v2'><img src='https://img.shields.io/badge/arXiv-2511.06168v2-b31b1b.svg'></a>
+
+Jinwei Hu, **Xinmiao Huang**, Youcheng Sun, Yi Dong, Xiaowei Huang.
+
+- Accepted to the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026).
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/cotlens.png' alt="Chain-of-Thought as a Lens cover" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chain-of-Thought as a Lens: Evaluating Structured Reasoning Alignment between Human Preferences and Large Language Models](https://arxiv.org/pdf/2601.01685)
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:u-x6o8ySG0sC'><span class='show_paper_citations' data='mhRHe4oAAAAJ:u-x6o8ySG0sC'></span></a>
+<a href='https://arxiv.org/pdf/2601.01685'><img src='https://img.shields.io/badge/arXiv-2601.01685-b31b1b.svg'></a>
+
+Boxuan Wang, Zhuoyun Li, **Xinmiao Huang**, Xiaowei Huang, Yi Dong.
+
+- Accepted to the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026).
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='images/spatial-dise.png' alt="sym" width="100%"></div></div>
@@ -41,9 +70,8 @@ Currently, Adam is working on his MSc dissertation in safety validation of deep 
 
 
 
-[Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models](https://openreview.net/forum?id=bMINsPQpME)<a href='https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:9yKSN-GCB0IC'>
-<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/shinmohuang/shinmohuang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
+[Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models](https://openreview.net/forum?id=bMINsPQpME)
+<a href='https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:9yKSN-GCB0IC'><span class='show_paper_citations' data='mhRHe4oAAAAJ:9yKSN-GCB0IC'></span></a>
 <a href='https://shinmohuang.github.io/spatialdise_page/'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
 <a href='https://huggingface.co/collections/TACPS-liv/spatial-dise'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
 
@@ -57,9 +85,7 @@ Currently, Adam is working on his MSc dissertation in safety validation of deep 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mine Automation. 2022(12)</div><img src='images\2022100041-10.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3D map construction of coal mine roadway mobile robot based on integrated factor graph optimization](http://www.gkzdh.cn/en/article/doi/10.13272/j.issn.1671-251x.2022100041)<a href='https://scholar.google.com/citations?user=mhRHe4oAAAAJ&hl'>
-<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/shinmohuang/shinmohuang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
+[3D map construction of coal mine roadway mobile robot based on integrated factor graph optimization](http://www.gkzdh.cn/en/article/doi/10.13272/j.issn.1671-251x.2022100041)
 
 ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
 
