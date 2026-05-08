@@ -37,6 +37,20 @@ Currently, Adam is working on his MSc dissertation in safety validation of deep 
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/pipeline.png' alt="PrefixGuard pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors](https://arxiv.org/pdf/2605.06455)
+<!-- Not yet indexed on Google Scholar -->
+<a href='https://arxiv.org/pdf/2605.06455'><img src='https://img.shields.io/badge/arXiv-2605.06455-b31b1b.svg'></a>
+
+**Xinmiao Huang**, Jinwei Hu, Rajarshi Roy, Changshun Wu, Yi Dong, Xiaowei Huang.
+
+- Preprint on arXiv (May 2026).
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Oral</div><img src='images/lying.png' alt="Lying with Truths cover" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
