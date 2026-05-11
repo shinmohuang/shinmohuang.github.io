@@ -43,6 +43,8 @@ Currently, Adam is working on his MSc dissertation in safety validation of deep 
 [PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors](https://arxiv.org/pdf/2605.06455)
 <!-- Not yet indexed on Google Scholar -->
 <a href='https://arxiv.org/pdf/2605.06455'><img src='https://img.shields.io/badge/arXiv-2605.06455-b31b1b.svg'></a>
+<a href='https://shinmohuang.github.io/prefixguard_page/'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
+<a href='https://github.com/shinmohuang/PrefixGuard'><img src='https://img.shields.io/badge/GitHub-Repo-black?logo=github'></a>
 
 **Xinmiao Huang**, Jinwei Hu, Rajarshi Roy, Changshun Wu, Yi Dong, Xiaowei Huang.
 
