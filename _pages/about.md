@@ -41,9 +41,8 @@ Currently, Adam is working on his MSc dissertation in safety validation of deep 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/PixPin_2026-06-19_16-42-37.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Safety-Constrained Reinforcement Learning with Post-Training Reachability Verification for Robot Navigation](https://arxiv.org/abs/2605.14174)<a href='https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ'>
-<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/shinmohuang/shinmohuang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
+[Safety-Constrained Reinforcement Learning with Post-Training Reachability Verification for Robot Navigation](https://arxiv.org/abs/2605.14174)
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:IjCSPb-OGe4C'><span class='show_paper_citations' data='mhRHe4oAAAAJ:IjCSPb-OGe4C'></span></a>
 <a href='https://arxiv.org/abs/2605.14174'><img src='https://img.shields.io/badge/arXiv-2605.14174-b31b1b'></a>
 
 Qisong He, **Xinmiao Huang**, Jinwei Hu, Zhuoyun Li, Yi Dong, Changshun Wu, Xiaowei Huang.
