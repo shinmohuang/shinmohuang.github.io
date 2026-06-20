@@ -57,7 +57,7 @@ Qisong He, **Xinmiao Huang**, Jinwei Hu, Zhuoyun Li, Yi Dong, Changshun Wu, Xiao
 <div class='paper-box-text' markdown="1">
 
 [PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors](https://arxiv.org/pdf/2605.06455)
-<!-- Not yet indexed on Google Scholar -->
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:UeHWp8X0CEIC'><span class='show_paper_citations' data='mhRHe4oAAAAJ:UeHWp8X0CEIC'></span></a>
 <a href='https://arxiv.org/pdf/2605.06455'><img src='https://img.shields.io/badge/arXiv-2605.06455-b31b1b.svg'></a>
 <a href='https://shinmohuang.github.io/prefixguard_page/'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
 <a href='https://github.com/shinmohuang/PrefixGuard'><img src='https://img.shields.io/badge/GitHub-Repo-black?logo=github'></a>
