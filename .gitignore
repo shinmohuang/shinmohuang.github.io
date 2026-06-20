@@ -6,3 +6,5 @@ push.sh
 vendor/
 .bundle/
 Gemfile.lock~
+.scholar-venv/
+google_scholar_crawler/results/
