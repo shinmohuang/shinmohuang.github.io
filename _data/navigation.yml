@@ -1,32 +1,7 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Research Experience"
-    url: "/#-research-experience"
-    
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  # - title: "Languages"
-  #   url: "/#-languages"
-
-  # - title: "Technical Skills"
-  #   url: "/#-technical-skills"
-
-  - title: "Reading Group"
-    url: "/#-reading-group"
-
-  # - title: "Internships"
-  #   url: "/#-internships"
+  - title: "Research"
+    url: "/research/"

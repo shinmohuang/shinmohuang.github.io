@@ -2,8 +2,9 @@
 permalink: /
 title: "Adam (Xinmiao) Huang"
 excerpt: ""
-author_profile: true
-redirect_from: 
+author_profile: false
+classes: home-lite-page
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -14,156 +15,106 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
 
-Adam (Xinmiao) Huang is a second-year PhD student in the School of Computer Science and Informatics at the University of Liverpool, under the supervision of Prof. Xiaowei Huang and Dr. Yi Dong. His research interests include Neural-Symbolic AI, Spatial Reasoning for LLM.
+<section class="home-hero">
+  <div class="home-hero__copy" markdown="1">
 
-<!-- Adam has experience leading teams and managing complex robotics projects. As team leader for the 16th National University Students Intelligent Car Competition, he coordinated a team of 5 to develop an autonomous vehicle using SLAM, navigation, and other algorithms. The team won first prize nationally for their innovative work. His bachelor's dissertation involved developing a Lidar-SLAM system for 3D mapping of underground coal mine tunnels. He has two published patents and one published paper related to robotic inspection, cooling systems, and 3D mapping.
+# Adam (Xinmiao) Huang
 
-Currently, Adam is working on his MSc dissertation in safety validation of deep neural networks using formal analysis techniques like SMT solvers. He aims to develop methods to formally verify and guarantee the safety of DNNs. -->
+I am a second-year PhD student in the School of Computer Science and Informatics at the University of Liverpool, advised by Prof. Xiaowei Huang and Dr. Yi Dong.
 
-<!-- Adam has strong technical skills in C/C++, Python, ROS, MATLAB, TensorFlow, CAD, and other robotics/AI frameworks. -->
+My research focuses on trustworthy AI systems, especially neuro-symbolic reasoning, spatial reasoning in large multimodal models, runtime monitoring for LLM agents, and formal safety verification for learning-enabled robotics.
 
-<!-- His research interests include AI safety, V&V of machine learning systems, Lidar-SLAM, and autonomous vehicles. -->
+Outside of research, I enjoy going to the gym, football, and 3D printing.
 
-# 📣 News
-- *2026.06*: &nbsp;🎉🎉 Paper accepted at IROS 2026!
-- *2026.04*: &nbsp;🎉🎉 Two papers accepted at ACL 2026. Congratulations to all co-authors!
-- *2026.01*: &nbsp;🎉🎉 Paper accepted at ICLR 2026!
-- *2024.12*: &nbsp;🎉🎉 Gave a tutorial session about Neural Symbolic AI at TACPS & Trust-AI Reading Group
-- *2024.10*: &nbsp;🎉🎉 Started my PhD journey at University of Liverpool under the supervision of Professor Xiaowei Huang and Dr. Yi Dong.
-- *2023.12*: &nbsp;🎉🎉 Graduated from University of Bristol MSc Robotics with Distinction!
-<!-- - *2023.09*: &nbsp;🎉🎉 Just finished my Master's dissertation: Safety Validation of Deep Neural Networks by Formal Analysis. Hope it will get a good mark! Further research will be conduct soon and hopefully there will be a paper released! -->
+<p class="home-links" id="contact">
+  <a href="mailto:xinmiao.huang@liverpool.ac.uk">Email</a>
+  <span>-</span>
+  <a href="https://scholar.google.com/citations?user=mhRHe4oAAAAJ&hl">Google Scholar</a>
+  <span>-</span>
+  <a href="https://github.com/shinmohuang">GitHub</a>
+</p>
 
-# 📝 Publications 
+  </div>
+  <figure class="home-hero__portrait">
+    <img src="images/bighead.png" alt="Adam Xinmiao Huang">
+  </figure>
+</section>
 
+<section class="home-section home-news" id="news" markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/PixPin_2026-06-19_16-42-37.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## News
+
+- *2026.06*: Paper accepted at IROS 2026.
+- *2026.04*: Two papers accepted at ACL 2026. Congratulations to all co-authors.
+- *2026.01*: Paper accepted at ICLR 2026.
+- *2024.12*: Gave a tutorial session about Neural Symbolic AI at TACPS & Trust-AI Reading Group.
+- *2024.10*: Started my PhD at the University of Liverpool under Prof. Xiaowei Huang and Dr. Yi Dong.
+- *2023.12*: Graduated from University of Bristol MSc Robotics with Distinction.
+
+</section>
+
+<section class="home-section" id="research" markdown="1">
+
+## Selected Works
+
+<div class="selected-work" markdown="1">
 
 [Safety-Constrained Reinforcement Learning with Post-Training Reachability Verification for Robot Navigation](https://arxiv.org/abs/2605.14174)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:IjCSPb-OGe4C'><span class='show_paper_citations' data='mhRHe4oAAAAJ:IjCSPb-OGe4C'></span></a>
-<a href='https://arxiv.org/abs/2605.14174'><img src='https://img.shields.io/badge/arXiv-2605.14174-b31b1b'></a>
 
 Qisong He, **Xinmiao Huang**, Jinwei Hu, Zhuoyun Li, Yi Dong, Changshun Wu, Xiaowei Huang.
 
-- Proposed a framework combining CVaR-constrained RL training with neural network reachability verification for safe robot navigation.
-- Achieved 98.3% success rate across ten navigation scenarios with the highest safety verification rate.
-</div>
+*IROS 2026.*
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/pipeline.png' alt="PrefixGuard pipeline" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="selected-work" markdown="1">
 
 [PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors](https://arxiv.org/pdf/2605.06455)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:UeHWp8X0CEIC'><span class='show_paper_citations' data='mhRHe4oAAAAJ:UeHWp8X0CEIC'></span></a>
-<a href='https://arxiv.org/pdf/2605.06455'><img src='https://img.shields.io/badge/arXiv-2605.06455-b31b1b.svg'></a>
-<a href='https://shinmohuang.github.io/prefixguard_page/'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
-<a href='https://github.com/shinmohuang/PrefixGuard'><img src='https://img.shields.io/badge/GitHub-Repo-black?logo=github'></a>
 
 **Xinmiao Huang**, Jinwei Hu, Rajarshi Roy, Changshun Wu, Yi Dong, Xiaowei Huang.
 
-- Preprint on arXiv (May 2026).
-</div>
+*arXiv 2026.*
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Oral</div><img src='images/lying.png' alt="Lying with Truths cover" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="selected-work" markdown="1">
 
 [Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage](https://arxiv.org/pdf/2511.06168v2)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:u-x6o8ySG0sC'><span class='show_paper_citations' data='mhRHe4oAAAAJ:u-x6o8ySG0sC'></span></a>
-<a href='https://arxiv.org/pdf/2511.06168v2'><img src='https://img.shields.io/badge/arXiv-2511.06168v2-b31b1b.svg'></a>
 
 Jinwei Hu, **Xinmiao Huang**, Youcheng Sun, Yi Dong, Xiaowei Huang.
 
-- Accepted to the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026).
-</div>
+*ACL 2026 Oral (Outstanding Paper).*
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/cotlens.png' alt="Chain-of-Thought as a Lens cover" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="selected-work" markdown="1">
 
 [Chain-of-Thought as a Lens: Evaluating Structured Reasoning Alignment between Human Preferences and Large Language Models](https://arxiv.org/pdf/2601.01685)
-<!-- Not yet indexed on Google Scholar -->
-<!-- <a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:N_A'><span class='show_paper_citations' data='mhRHe4oAAAAJ:N_A'></span></a> -->
-<a href='https://arxiv.org/pdf/2601.01685'><img src='https://img.shields.io/badge/arXiv-2601.01685-b31b1b.svg'></a>
 
 Boxuan Wang, Zhuoyun Li, **Xinmiao Huang**, Xiaowei Huang, Yi Dong.
 
-- Accepted to the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026).
+*ACL 2026.*
 </div>
-</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='images/spatial-dise.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
+<div class="selected-work" markdown="1">
 
 [Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models](https://openreview.net/forum?id=bMINsPQpME)
-<a href='https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:9yKSN-GCB0IC'><span class='show_paper_citations' data='mhRHe4oAAAAJ:9yKSN-GCB0IC'></span></a>
-<a href='https://shinmohuang.github.io/spatialdise_page/'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
-<a href='https://huggingface.co/collections/TACPS-liv/spatial-dise'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow'></a>
 
 **Xinmiao Huang**, Qisong He, Zhenglin Huang, Boxuan Wang, Zhuoyun Li, Guangliang Cheng, Yi Dong, Xiaowei Huang.
 
-- Proposed a unified benchmark, Spatial-DISE, for evaluating spatial reasoning in Vision-Language Models (VLMs).
-</div>
+*ICLR 2026.*
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Mine Automation. 2022(12)</div><img src='images\2022100041-10.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="selected-work" markdown="1">
 
 [3D map construction of coal mine roadway mobile robot based on integrated factor graph optimization](http://www.gkzdh.cn/en/article/doi/10.13272/j.issn.1671-251x.2022100041)
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:u5HHmVD_uO8C'><span class='show_paper_citations' data='mhRHe4oAAAAJ:u5HHmVD_uO8C'></span></a>
 
-ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei
+ZOU Xiaoyu, **HUANG Xinmiao**, WANG Zhongbin, FANG Dongsheng, PAN Jie, SI Lei.
 
-- Investigated different popular Lidar-SLAM methods and implemented them on a tracked robot with 3D Lidar and IMU
-- Develop a brand new Lidar-SLAM based on integrated factor graph optimization
-- Improved the precision and robustness of 3D map construction of coal mine roadway and solved the problem of feature point missing and laser odometer failure in long straight underground roadway
-- Published one journal paper as the second author
-</div>
+*Journal of Mine Automation, 2022.*
 </div>
 
-# 🤖 Research Experience
-- *2023.05 - 2023.09* Safety Validation of Deep Neural Networks by Formal Analysis
-- *2021.12 - 2022.06* Research on the construction of 3D mapping of coal mine roadways for drilling robots
-- *2021.04 - 2021.08* The 16th National University Students Intelligent Car Competition
-- *2020.06 - 2022.06* A Universal Cooling Pipe Robot Driven by Magnetorheological Fluid
-- *2020.06 - 2021.06* Inspection Robot with the Hybrid Transmission of T rack Friction and Sprocket Chain
+</section>
 
-# 🏅 Honors and Awards
-- *2022* Outstanding Graduates, China University of Mining and Technology
-- *2021* The 16th National University Students Intelligent Car Competition - National First Prize
-- *2020-2021* Second Prize Scholarship, China University of Mining and Technology
-- *2018-2019, 2019-2020* Third Prize Scholarship, China University of Mining and Technology
-
-# 📖 Educations
-- ***2022.09 - 2023.09*, MSc in Robotics at University of Bristol**
-  <!-- - **Grade:** Distinction -->
-  - **Dissertation Project:** Safety Validation of Deep Neural Networks by Symbolic Analysis
-- ***2018.09 - 2022.06*, B.Eng in Robot Engineering at CUMT (Honored Graduates)**
-  <!-- - **GPA**: 85.77% -->
-  - **Dissertation Project:** Research on the construction of 3D mapping of coal mine roadways for drilling robots
-  <!-- - **Grade:** Distinction -->
-
-
-# 🗣️ Languages
-- Chinese Native
-- English C1
-- Irish Learner
-<!-- - French Beginner -->
-
-<!-- # 💻 Technical Skills
-- Programming: C, C++, Python, MATLAB, LATEX
-- Operating Systems: Windows, Linux(Ubuntu)
-- Software: ROS, CAD, Solidworks, Creo, Gazebo, TensorFlow, Pytorch, Git -->
-
-# 📚 Reading Group
-- 2024.12 Neural-Symbolic AI: Bridging Learning and Reasoning @ TACPS & Trust-AI Reading Group
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/CtSt_M666H4?si=qe5z0V5J5p82O02f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<footer class="home-footer">
+  Adam (Xinmiao) Huang &middot; University of Liverpool &middot; <a href="mailto:xinmiao.huang@liverpool.ac.uk">xinmiao.huang@liverpool.ac.uk</a>
+</footer>
