@@ -30,7 +30,7 @@ Qisong He, **Xinmiao Huang**, Jinwei Hu, Zhuoyun Li, Yi Dong, Changshun Wu, Xiao
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2026</div><img src="/images/pipeline.png" alt="PrefixGuard pipeline" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2026</div><img src="/images/PrefixGuard_Motivation.png" alt="PrefixGuard motivation and online prefix-warning monitor" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors](https://arxiv.org/pdf/2605.06455)
