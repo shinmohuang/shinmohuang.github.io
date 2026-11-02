@@ -22,11 +22,15 @@ redirect_from:
 
 # Adam (Xinmiao) Huang
 
-I am a second-year PhD student in the School of Computer Science and Informatics at the University of Liverpool, advised by Prof. Xiaowei Huang and Dr. Yi Dong.
+I am a third-year PhD student in Computer Science at the University of Liverpool, advised by Prof. Xiaowei Huang and Dr. Yi Dong.
 
-My research focuses on trustworthy AI systems, especially neuro-symbolic reasoning, spatial reasoning in large multimodal models, runtime monitoring for LLM agents, and formal safety verification for learning-enabled robotics.
+I work on trustworthy AI: making learning-enabled systems whose behaviour we can predict, monitor, and verify. My current directions are:
 
-Outside of research, I enjoy going to the gym, football, and 3D printing.
+- **Runtime monitoring for LLM agents**: warning of failures before they happen, with interpretable traces.
+- **Neuro-symbolic and spatial reasoning** in large multimodal models.
+- **Formal safety verification** for learning-enabled robotics.
+
+Outside the lab, I do Olympic weightlifting, tinker with 3D printing, and shoot film.
 
 <p class="home-links" id="contact">
   <a href="mailto:xinmiao.huang@liverpool.ac.uk">Email</a>

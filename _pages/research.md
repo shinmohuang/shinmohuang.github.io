@@ -30,7 +30,7 @@ Qisong He, **Xinmiao Huang**, Jinwei Hu, Zhuoyun Li, Yi Dong, Changshun Wu, Xiao
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2026</div><img src="/images/PrefixGuard_Motivation.png" alt="PrefixGuard motivation and online prefix-warning monitor" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2026</div><img src="/images/PrefixGuard_Architecture.png" alt="PrefixGuard architecture: a shared event projection feeds soft events to a GRU for online warnings and hard events to a risk-labeled DFA for replay" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors](https://arxiv.org/pdf/2605.06455)
