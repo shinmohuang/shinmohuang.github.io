@@ -30,6 +30,20 @@ Qisong He, **Xinmiao Huang**, Jinwei Hu, Zhuoyun Li, Yi Dong, Changshun Wu, Xiao
 </div>
 </div>
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2026</div><img src="/images/GroundedContinuation_Architecture.png" alt="Grounded Continuation architecture: an LLM Interpreter classifies utterances into operations, a symbolic engine updates the dependency map, and a context renderer feeds the maintained state back to the LLM" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations](https://arxiv.org/abs/2605.14175)
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:W7OEmFMy1HYC"><span class="show_paper_citations" data="mhRHe4oAAAAJ:W7OEmFMy1HYC"></span></a>
+<a href="https://arxiv.org/abs/2605.14175"><img src="https://img.shields.io/badge/arXiv-2605.14175-b31b1b" alt="arXiv 2605.14175"></a>
+
+Qisong He, Jinwei Hu, **Xinmiao Huang**, Changshun Wu, Yi Dong, Xiaowei Huang.
+
+- Proposed a runtime verifier that checks whether an LLM's continuation still rests on premises the conversation has not abandoned, defending against context-manipulation attacks.
+- An LLM Interpreter maps each utterance to epistemic operations; a symbolic engine maintains a dependency map, so grounding checks run in linear time with formal guarantees.
+</div>
+</div>
+
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2026</div><img src="/images/PrefixGuard_Architecture.png" alt="PrefixGuard architecture: a shared event projection feeds soft events to a GRU for online warnings and hard events to a risk-labeled DFA for replay" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 

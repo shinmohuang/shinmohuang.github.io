@@ -39,7 +39,6 @@ def main():
         "author_id": os.environ["GOOGLE_SCHOLAR_ID"],
         "api_key": os.environ["SERPAPI_KEY"],
         "hl": "en",
-        "sort": "pubdate",
         "num": PAGE_SIZE,
     }
 
