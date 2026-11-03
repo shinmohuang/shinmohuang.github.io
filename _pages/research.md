@@ -16,20 +16,6 @@ My research focuses on trustworthy AI systems, especially neuro-symbolic reasoni
 
 
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IROS 2026</div><img src="/images/PixPin_2026-06-19_16-42-37.png" alt="Safety-Constrained RL robot navigation" width="100%"></div></div>
-<div class="paper-box-text" markdown="1">
-
-[Safety-Constrained Reinforcement Learning with Post-Training Reachability Verification for Robot Navigation](https://arxiv.org/abs/2605.14174)
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:IjCSPb-OGe4C"><span class="show_paper_citations" data="mhRHe4oAAAAJ:IjCSPb-OGe4C"></span></a>
-<a href="https://arxiv.org/abs/2605.14174"><img src="https://img.shields.io/badge/arXiv-2605.14174-b31b1b" alt="arXiv 2605.14174"></a>
-
-Qisong He, **Xinmiao Huang**, Jinwei Hu, Zhuoyun Li, Yi Dong, Changshun Wu, Xiaowei Huang.
-
-- Proposed a framework combining CVaR-constrained RL training with neural network reachability verification for safe robot navigation.
-- Achieved 98.3% success rate across ten navigation scenarios with the highest safety verification rate.
-</div>
-</div>
-
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2026</div><img src="/images/GroundedContinuation_Architecture.png" alt="Grounded Continuation architecture: an LLM Interpreter classifies utterances into operations, a symbolic engine updates the dependency map, and a context renderer feeds the maintained state back to the LLM" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
@@ -41,6 +27,20 @@ Qisong He, Jinwei Hu, **Xinmiao Huang**, Changshun Wu, Yi Dong, Xiaowei Huang.
 
 - Proposed a runtime verifier that checks whether an LLM's continuation still rests on premises the conversation has not abandoned, defending against context-manipulation attacks.
 - An LLM Interpreter maps each utterance to epistemic operations; a symbolic engine maintains a dependency map, so grounding checks run in linear time with formal guarantees.
+</div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IROS 2026</div><img src="/images/PixPin_2026-06-19_16-42-37.png" alt="Safety-Constrained RL robot navigation" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[Safety-Constrained Reinforcement Learning with Post-Training Reachability Verification for Robot Navigation](https://arxiv.org/abs/2605.14174)
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=mhRHe4oAAAAJ&citation_for_view=mhRHe4oAAAAJ:IjCSPb-OGe4C"><span class="show_paper_citations" data="mhRHe4oAAAAJ:IjCSPb-OGe4C"></span></a>
+<a href="https://arxiv.org/abs/2605.14174"><img src="https://img.shields.io/badge/arXiv-2605.14174-b31b1b" alt="arXiv 2605.14174"></a>
+
+Qisong He, **Xinmiao Huang**, Jinwei Hu, Zhuoyun Li, Yi Dong, Changshun Wu, Xiaowei Huang.
+
+- Proposed a framework combining CVaR-constrained RL training with neural network reachability verification for safe robot navigation.
+- Achieved 98.3% success rate across ten navigation scenarios with the highest safety verification rate.
 </div>
 </div>
 
