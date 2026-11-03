@@ -2,39 +2,40 @@ name: Get Citation Data
 
 on:
   workflow_dispatch:
-  page_build:
   schedule:
-    - cron:  '0 8 * * *'
+    - cron: '0 8 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 5
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.12' # 3.9+ required: fake_useragent (via scholarly) uses list[...] generics
+        python-version: '3.12'
 
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-        pip3 install --upgrade pip
+    - name: Fetch citation data (SerpAPI)
+      working-directory: ./google_scholar_crawler
+      run: python3 main.py
+      env:
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
 
-    - name: Run
+    - name: Publish to google-scholar-stats branch
+      working-directory: ./google_scholar_crawler/results
       run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
+        git init -q
         git config --local user.name "shinmohuang"
         git config --local user.email "shinmohuang@163.com"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        git commit -qm "Updated Citation Data"
+        git push --force "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats
+
+    - name: Purge jsDelivr cache
+      run: |
+        for f in gs_data.json gs_data_shieldsio.json; do
+          curl -fsS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@google-scholar-stats/$f" >/dev/null || true
+        done

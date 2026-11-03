@@ -3,11 +3,10 @@
 # Refresh Google Scholar citation data and publish it to the
 # `google-scholar-stats` branch.
 #
-# The CI workflow (.github/workflows/google_scholar_crawler.yaml) can't scrape
-# Scholar reliably because Google blocks GitHub's datacenter IPs. Your home IP
-# works, so run this locally whenever you add a paper or want fresh counts:
+# The CI workflow (.github/workflows/google_scholar_crawler.yaml) does this
+# daily via SerpAPI. Run it locally for an immediate refresh:
 #
-#     ./update_citations.sh
+#     SERPAPI_KEY=xxxx ./update_citations.sh
 #
 # Optionally override the Scholar profile id:
 #
@@ -19,19 +18,15 @@ REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$REPO_ROOT"
 
 SCHOLAR_ID="${GOOGLE_SCHOLAR_ID:-mhRHe4oAAAAJ}"
-VENV="$REPO_ROOT/.scholar-venv"
 ORIGIN_URL="$(git remote get-url origin)"
 SLUG="$(echo "$ORIGIN_URL" | sed -E 's#.*github\.com[:/]##; s#\.git$##')"
 
-echo "==> Setting up Python environment (.scholar-venv)"
-[ -d "$VENV" ] || python3 -m venv "$VENV"
-"$VENV/bin/pip" install --quiet --upgrade pip
-"$VENV/bin/pip" install --quiet -r google_scholar_crawler/requirements.txt
+: "${SERPAPI_KEY:?Set SERPAPI_KEY (https://serpapi.com/manage-api-key)}"
 
 echo "==> Fetching citation data for Scholar id: $SCHOLAR_ID"
-( cd google_scholar_crawler && GOOGLE_SCHOLAR_ID="$SCHOLAR_ID" "$VENV/bin/python" main.py >/dev/null )
+( cd google_scholar_crawler && GOOGLE_SCHOLAR_ID="$SCHOLAR_ID" python3 main.py >/dev/null )
 
-read -r CITED NPUB < <("$VENV/bin/python" - <<'PY'
+read -r CITED NPUB < <(python3 - <<'PY'
 import json
 d = json.load(open('google_scholar_crawler/results/gs_data.json'))
 print(d['citedby'], len(d['publications']))
