@@ -1,0 +1,115 @@
+{
+  "scholar_id": "mhRHe4oAAAAJ&hl",
+  "name": "Xinmiao Huang",
+  "affiliation": "University of Liverpool",
+  "citedby": 69,
+  "hindex": 4,
+  "i10index": 2,
+  "cites_per_year": {
+    "2024": 2,
+    "2025": 3,
+    "2026": 64
+  },
+  "publications": {
+    "mhRHe4oAAAAJ:u-x6o8ySG0sC": {
+      "author_pub_id": "mhRHe4oAAAAJ:u-x6o8ySG0sC",
+      "title": "Lying with truths: Open-channel multi-agent collusion for belief manipulation via generative montage",
+      "authors": "J Hu, X Huang, Y Sun, Y Dong, X Huang",
+      "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 25
+    },
+    "mhRHe4oAAAAJ:9yKSN-GCB0IC": {
+      "author_pub_id": "mhRHe4oAAAAJ:9yKSN-GCB0IC",
+      "title": "Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models",
+      "authors": "X Huang, Q He, Z Huang, B Wang, Z Li, G Cheng, Y Dong, X Huang",
+      "venue": "The Fourteenth International Conference on Learning Representations (ICLR 2026), 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 19
+    },
+    "mhRHe4oAAAAJ:UeHWp8X0CEIC": {
+      "author_pub_id": "mhRHe4oAAAAJ:UeHWp8X0CEIC",
+      "title": "PrefixGuard: Online Failure Warning and Trace-Grounded Diagnosis for LLM Agents",
+      "authors": "X Huang, J Hu, R Roy, C Wu, Y Dong, X Huang",
+      "venue": "arXiv preprint arXiv:2605.06455, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 6
+    },
+    "mhRHe4oAAAAJ:u5HHmVD_uO8C": {
+      "author_pub_id": "mhRHe4oAAAAJ:u5HHmVD_uO8C",
+      "title": "3D map construction of coal mine roadway mobile robot based on integrated factor graph optimization",
+      "authors": "SIL ZOU Xiaoyu, HUANG Xinmiao, WANG Zhongbin, FANG Dongsheng, PAN Jie",
+      "venue": "Journal of Mine Automation 48 (12), 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 5
+    },
+    "mhRHe4oAAAAJ:Y0pCki6q_DkC": {
+      "author_pub_id": "mhRHe4oAAAAJ:Y0pCki6q_DkC",
+      "title": "Chain-of-Thought as a Lens: Evaluating Structured Reasoning Alignment between Human Preferences and Large Language Models",
+      "authors": "B Wang, Z Li, X Huang, X Huang, Y Dong",
+      "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational …, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 4
+    },
+    "mhRHe4oAAAAJ:W7OEmFMy1HYC": {
+      "author_pub_id": "mhRHe4oAAAAJ:W7OEmFMy1HYC",
+      "title": "Grounded continuation: A linear-time runtime verifier for LLM conversations",
+      "authors": "Q He, J Hu, X Huang, C Wu, Y Dong, X Huang",
+      "venue": "arXiv preprint arXiv:2605.14175, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:W7OEmFMy1HYC",
+      "num_citations": 4
+    },
+    "mhRHe4oAAAAJ:Tyk-4Ss8FVUC": {
+      "author_pub_id": "mhRHe4oAAAAJ:Tyk-4Ss8FVUC",
+      "title": "Responsible Agentic AI Requires Explicit Provenance",
+      "authors": "J Hu, X Huang, Q He, Y Sun, Y Dong, X Huang",
+      "venue": "arXiv preprint arXiv:2605.17169, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 3
+    },
+    "mhRHe4oAAAAJ:YsMSGLbcyi4C": {
+      "author_pub_id": "mhRHe4oAAAAJ:YsMSGLbcyi4C",
+      "title": "Skill Use or Skill Theater? Evaluating the Reasoning Backroom in Skill-Augmented Language Agents",
+      "authors": "J Hu, Y Qi, X Huang, Y Sun, Y Dong, X Huang",
+      "venue": "arXiv preprint arXiv:2607.27484, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 1
+    },
+    "mhRHe4oAAAAJ:IjCSPb-OGe4C": {
+      "author_pub_id": "mhRHe4oAAAAJ:IjCSPb-OGe4C",
+      "title": "Safety-Constrained Reinforcement Learning with Post-Training Reachability Verification for Robot Navigation",
+      "authors": "Q He, X Huang, J Hu, Z Li, Y Dong, C Wu, X Huang",
+      "venue": "arXiv preprint arXiv:2605.14174, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 1
+    },
+    "mhRHe4oAAAAJ:zYLM7Y9cAGgC": {
+      "author_pub_id": "mhRHe4oAAAAJ:zYLM7Y9cAGgC",
+      "title": "Where Do Prompt Perturbations Break Generation? A Segment-Level View of Robustness in LoRA-Tuned Language Models",
+      "authors": "Z Li, B Wang, J Hu, Z Huang, Q He, X Huang, G Cheng, X Huang, Y Dong",
+      "venue": "arXiv preprint arXiv:2605.01605, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 1
+    },
+    "mhRHe4oAAAAJ:d1gkVwhDpl0C": {
+      "author_pub_id": "mhRHe4oAAAAJ:d1gkVwhDpl0C",
+      "title": "S²R²: Semantic Segment Robustness Regularisation on Prompt Perturbation",
+      "authors": "Z Li, B Wang, Z Huang, Q He, X Huang, G Cheng, X Huang, Y Dong",
+      "venue": null,
+      "year": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mhRHe4oAAAAJ&pagesize=100&citation_for_view=mhRHe4oAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 0
+    }
+  },
+  "updated": "2026-11-14T14:52:33+00:00"
+}
